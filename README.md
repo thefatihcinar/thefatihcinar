@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/trfatihcinar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="trfatihcinar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/trfatihcinar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="trfatihcinar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tech.fatih/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trfatihcinar" height="30" width="40" /></a>
+
 </p>
 <br>
 
