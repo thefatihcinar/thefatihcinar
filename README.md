@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trfatihcinar&label=Profile%20views&color=0e75b6&style=flat" alt="trfatihcinar" /> </p>
 
-- 🌱 I’m currently learning **.Net Core, Angular, Amazon Web Services**
+- 🌱 I’m currently learning **NodeJS, React, Amazon Web Services**
 
 - 📫 How to reach me **rea.fatihcinar@gmail.com**
 
