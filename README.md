@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DD4814&size=40&center=true&vCenter=true&lines=+Hi%2C+I'm+Fatih)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi%2C+I'm+Fatih)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi 👋, I'm Fatih</h1>
