@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi👋%2C+I'm+Fatih)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=25&center=true&vCenter=true&lines=+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=25&center=true&vCenter=true&lines=+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">a Software Engineer from Turkey</h3>
